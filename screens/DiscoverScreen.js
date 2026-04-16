@@ -23,7 +23,7 @@ const DiscoverScreen = ({ navigation }) => {
     if (debounceTimer.current) clearTimeout(debounceTimer.current);
     debounceTimer.current = setTimeout(() => {
       setDebouncedQuery(text.trim().toLowerCase());
-    }, 900);
+    }, 300);
   }, []);
 
   const filteredAthletes = athletesWithScores.filter((a) => {
