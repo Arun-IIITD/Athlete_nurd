@@ -1,9 +1,9 @@
 # ScoutIQ — Athlete Discovery App
 
 This is a simple React Native (Expo) app where scouts can:
--- browse athletes
--- check their profile
--- add/remove them from shortlist
+* browse athletes
+* check their profile
+* add/remove them from shortlist
 
 I focused more on making things work properly instead of over-designing.
 
