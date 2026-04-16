@@ -15,6 +15,9 @@ This is a simple React Native (Expo) app where scouts can:
 
 * Then scan QR with Expo Go (Android).
 
+## Live link
+* https://athlete-nurd.vercel.app/
+
 # 📁 Repo structure
 * src/
 *  components/   → cards, bars, small UI parts
