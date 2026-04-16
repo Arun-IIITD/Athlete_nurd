@@ -1,7 +1,7 @@
 {
   "name": "scoutiq",
   "version": "1.0.0",
-  "main": "/dist/index.html",
+  "main": "index.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
